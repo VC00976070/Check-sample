@@ -78,6 +78,9 @@ Please refer to the below table for system requirements:
 
 Launch the Zoom app or visit zoom.us/signup
 
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/8835eb6e-08b2-40b4-973b-f1bf2de16fc1" />
+
+
 ### To create an Account
 
 1. Enter your email, verify your age, and check your inbox for a \*confirmation\* email.
