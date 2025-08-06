@@ -20,7 +20,7 @@ Table of content
 Zoom is a video conferencing tool&#8482;
  used for online meetings, webinars, and virtual collaboration. This document provides instructions for installing, setting up, and using the Zoom Desktop Client on supported operating systems.
 
-
+![Image](zoom-logo.webp)(https://zoom.us/download)
 
 <div style="page-break-after: always;"></div>
 
