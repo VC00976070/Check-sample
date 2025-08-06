@@ -28,6 +28,9 @@ Zoom is a video conferencing tool&#8482;
 
 Before installation, ensure the following:
 
+<img width="1024" height="1024" alt="Will AI replace tech" src="https://github.com/user-attachments/assets/16c52131-62fc-4a5e-8c25-5fc79ac50621" />
+
+
 * You have access to a reliable internet connection
 * You have administrator rights on your deviceconnection
 * adding this as new
