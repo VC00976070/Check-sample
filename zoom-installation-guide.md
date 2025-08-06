@@ -30,7 +30,7 @@ Before installation, ensure the following:
 
 * You have access to a reliable internet connection
 * You have administrator rights on your deviceconnection
-* Your operating system is compatible
+* adding this as new
 
 <div style="page-break-after: always;"></div>
 
