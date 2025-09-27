@@ -22,6 +22,7 @@ Zoom is a video conferencing tool&#8482;
 
 City: Coimbatore
 
+
 ![Image](zoom-logo.webp)
 
 <div style="page-break-after: always;"></div>
